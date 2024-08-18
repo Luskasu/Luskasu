@@ -15,3 +15,8 @@ Just another technology student looking to expand my knowledge. I'm really inter
 
 **Other**<br>
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-333333?style=flat&logo=adobephotoshop) ![Krita](https://img.shields.io/badge/-Krita-333333?style=flat&logo=krita) ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+
+## Github Stats
+![Luskasu's Stats](https://github-readme-stats.vercel.app/api?username=Luskasu&theme=radical&show_icons=true&hide_border=true&count_private=true) <br>
+![Luskasu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luskasu&theme=radical&hide_border=true) <br>
+![Luskasu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luskasu&theme=radical&show_icons=true&hide_border=true&layout=compact) <br>
