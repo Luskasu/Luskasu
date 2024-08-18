@@ -12,10 +12,10 @@ Just another technology student looking to expand my knowledge. I'm really inter
 
 ## 🧙‍♂️My Skills
 ___
-**Coding**
+**Coding** <br>
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Selenium](https://img.shields.io/badge/-Selenium%20Webdriver-333333?style=flat&logo=selenium) ![Tkinter](https://img.shields.io/badge/-Tkinter-333333?style=flat&logo=python) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-**Other**
+**Other**<br>
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-333333?style=flat&logo=adobephotoshop) ![Krita](https://img.shields.io/badge/-Krita-333333?style=flat&logo=krita) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ____
 IMAGE
