@@ -15,14 +15,3 @@ Just another technology student looking to expand my knowledge. I'm really inter
 
 **Other**<br>
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-333333?style=flat&logo=adobephotoshop) ![Krita](https://img.shields.io/badge/-Krita-333333?style=flat&logo=krita) ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-IMAGE
-### Also, Contact Me
-____
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=lucas.araujo.barboza@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lucas-araújo-13b6761a2" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/luskasu.a?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" alt="Instagram"/></a>
-</p>
